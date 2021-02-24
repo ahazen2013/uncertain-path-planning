@@ -3,7 +3,7 @@ The policy is a mapping that tells you, in each location, the direction you shou
 Each movement has a 70% chance to be in the desired direction, and a 10% chance to move in any other cardinal direction.
 There is a small cost associated with each movement, a large cost for moving into a space with an obstacle, and a large benefit for reaching the destination.
 
-Input (input.txt):
+### Input (input.txt):
 
 [grid size] (strictly positive integer)
 
@@ -14,12 +14,12 @@ Input (input.txt):
 [destination] (in format x,y)
 
 
-Output (output.txt):
+### Output (output.txt):
 - obstacles are represented by 'o'
 - cardinal directions NESW  are represented by '^' '>' 'v' '<', respectively
 - destination is represented by '.'
 
-Example:
+### Example:
 
 input.txt: &nbsp;&nbsp;output.txt:
 
