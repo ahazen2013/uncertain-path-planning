@@ -21,14 +21,14 @@ Output (output.txt):
 
 Example:
 
-input.txt:      output.txt:
+input.txt: &nbsp;&nbsp;output.txt:
 
-4               ovvo
+4 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ovvo
 
-2               vvvv
+2 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; vvvv
 
-0,0             >>.<
+0,0 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; >>.<
 
-3,0             >>^<
+3,0 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; >>^<
 
 2,2
